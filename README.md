@@ -33,18 +33,18 @@ Examples:<br/>
 
 the function will return 6612
 
-2. Given S = "city,temp2,temp\nParis,7,-3\nKarachi,4,-4\nPorto,-1,-2" and C="temp"
+2. Given S = "city,temp2,temp\nParis,7,-3\nKarachi,4,-4\nLahore,-1,-2" and C="temp"
 
 +--------+---------+--------+<br />
 |  &nbsp;  city &nbsp; &nbsp;  | &nbsp;  temp2 &nbsp;| &nbsp;  temp &nbsp;|<br />
 +--------+---------+--------+<br />
 | &nbsp; Paris &nbsp;  &nbsp; | &nbsp; &nbsp; 7 &nbsp;  &nbsp; &nbsp; | &nbsp; &nbsp; -3 &nbsp; &nbsp; | <br />
 | &nbsp; Karachi &nbsp; | &nbsp; &nbsp; 4  &nbsp; &nbsp; | &nbsp; &nbsp; -4 &nbsp; &nbsp; | <br />
-| &nbsp; Proto &nbsp;  &nbsp; | &nbsp; -1 &nbsp;  &nbsp; &nbsp; | &nbsp; &nbsp; -2 &nbsp; &nbsp; | <br />
+| &nbsp; Lahore &nbsp;  &nbsp; | &nbsp; -1 &nbsp;  &nbsp; &nbsp; | &nbsp; &nbsp; -2 &nbsp; &nbsp; | <br />
 +--------+---------+---------+<br />
 
 the function with return -2
 
 
 ## Keywords:
-Python, Source Code, Algorithm, SpreadSheet, CSV Format to Array/List conversion, Find in List, Minium Value
+Python, Source Code, Algorithm, SpreadSheet, CSV Format to Array/List conversion, Find in List, Minium Value, Array Manipulation
